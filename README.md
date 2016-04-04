@@ -6,7 +6,8 @@ This is my repository for the projects I have completed during my academic tenur
 
 Table of Contents
 --------------------------------------------------------------------------------------------------------------------------------------
-Chapter 1: Introduction To Java docs/more_words.md
+Chapter 1: Introduction To Java 
+docs/more_words.md
 --------------------------------------------------------------------------------------------------------------------------------------
 Chapter 2: Fundamental Date Types
 --------------------------------------------------------------------------------------------------------------------------------------
