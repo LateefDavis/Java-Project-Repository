@@ -1,15 +1,18 @@
 # Recursion
 
 ## Goals:
-*To be able to implement methods
+*To learn to “think recursively”
 
-*To become familiar with the concept of parameter passing
+*To be able to use recursive helper methods
 
-*To develop strategies for decomposing complex tasks into simpler ones
+*To understand the relationship between recursion and iteration
 
-*To be able to determine the scope of a variable
+*To understand when the use of recursion affects the efficiency of an algorithm
 
-*To learn how to think recursively
+*To analyze problems that are much easier to solve by recursion than by iteration
+
+*To process data with recursive structures using mutual recursion
+
 
 
 ### Problem Solving Techniques
