@@ -6,8 +6,7 @@ This is my repository for the projects I have completed during my academic tenur
 
 Table of Contents
 --------------------------------------------------------------------------------------------------------------------------------------
-Chapter 1: Introduction To Java
-[About Me](Section-01-Getting-Started-And-Assessment/about-me.md)
+[Chapter 1: Introduction To Java](Section-01-Getting-Started-And-Assessment/about-me.md)
 --------------------------------------------------------------------------------------------------------------------------------------
 Chapter 2: Fundamental Date Types
 [About Me](Section-01-Getting-Started-And-Assessment/about-me.md)
