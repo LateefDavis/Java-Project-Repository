@@ -26,7 +26,7 @@ Table of Contents
 --------------------------------------------------------------------------------------------------------------------------------------
 [Graphical User Interfaces](Section-01-Getting-Started-And-Assessment/about-me.md)
 --------------------------------------------------------------------------------------------------------------------------------------
-[Advances User Interfaces](Section-01-Getting-Started-And-Assessment/about-me.md)
+[Advanced User Interfaces](Section-01-Getting-Started-And-Assessment/about-me.md)
 --------------------------------------------------------------------------------------------------------------------------------------
 [Object-Oriented Design](Section-01-Getting-Started-And-Assessment/about-me.md)
 --------------------------------------------------------------------------------------------------------------------------------------
